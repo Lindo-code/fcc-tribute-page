@@ -11,8 +11,6 @@
 
 ![Home Page](./images/sitepreview1.jpg "Center")
 
-![Home Page](./images/sitepreview2.jpg "Center")
-
 ## Link
 
 - [Tribute Page](https://lindo-code.github.io/fcc-tribute-page/ "View Page")
